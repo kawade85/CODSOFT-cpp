@@ -7,7 +7,9 @@ int main()
     double num1, num2;     // Declare variables
     char opp;
 
-    cout << "Enter an operator (+, -, *, /): ";
+    cout << "***** Easy Calci-Use *****";
+
+    cout << "\n\nEnter an operator (+, -, *, /): ";
     cin >> opp;
 
     cout << "Enter first number: ";     // Prompt user for input
